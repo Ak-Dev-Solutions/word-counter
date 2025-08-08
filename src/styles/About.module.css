@@ -1,0 +1,43 @@
+.container {
+  max-width: 900px;
+  margin: 36px auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.container h1 {
+  font-size: 2rem;
+  margin-bottom: 16px;
+  color: var(--accent);
+}
+
+.container h2 {
+  margin-top: 24px;
+  font-size: 1.4rem;
+  color: var(--text);
+}
+
+.container p {
+  margin-bottom: 16px;
+  font-size: 1rem;
+  color: var(--text);
+}
+
+.container ul {
+  margin: 0 0 16px 20px;
+  color: var(--text);
+}
+
+.cta {
+  display: inline-block;
+  padding: 10px 16px;
+  background-color: var(--accent);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+}
+
+.cta:hover {
+  background-color: #0849d1;
+}

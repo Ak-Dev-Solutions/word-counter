@@ -1,0 +1,8 @@
+.footer {
+  background-color: var(--card);
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--muted);
+  border-top: 1px solid rgba(0,0,0,0.1);
+}

@@ -1,0 +1,18 @@
+.toggleWrap {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.label {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.select {
+  padding: 6px 8px;
+  border-radius: 6px;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: var(--card);
+  color: var(--text);
+}
